@@ -11,10 +11,10 @@ import { HomePage } from '../pages/home/home';
 
 const cloudSettings: CloudSettings = {
   'core': {
-    'app_id': 'a0a1a3cd',
+    'app_id': 'xxxxxxxxx',
   },
   'push': {
-    'sender_id': '1024866608153',
+    'sender_id': 'xxxxxxxxxx',
     'pluginConfig': {
       'ios': {
         'badge': true,
